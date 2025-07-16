@@ -15,7 +15,7 @@ public class Calculation {
 		System.out.println("変数aの値は" + a + "です");
 		int b = (int) a;
 		b = b + 10;
-		System.out.println("変数aの値は" + b + "です");
+		System.out.println("変数bの値は" + b + "です");
 
 	}
 
